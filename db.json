@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"group":{"lable":"Name:","input":"Enter your Name","inputStyle":{"borderColor":"black","borderWidth":1,"borderRadius":5,"width":296.22857142857146,"marginLeft":5}}},{"group":{"lable":"Email:","input":"Enter your email here","inputStyle":{"borderColor":"black","borderWidth":1,"borderRadius":5,"width":288,"marginLeft":5}}},{"group":{"lable":"Phone:","input":"Enter your Phone here","inputStyle":{"borderColor":"black","borderWidth":1,"borderRadius":5,"width":288,"marginLeft":5}}},{"group":{"lable":"Hamada:","input":"Enter your Phone here","inputStyle":{"borderColor":"black","borderWidth":1,"borderRadius":5,"width":141,"marginLeft":5}}},{"button":{"title":"Ok"}}]
